@@ -17,7 +17,8 @@ public class HelloGit {
 		height = s.nextDouble();
 		
 		area = width * height;
-		System.out.println("The rectangle area is " + area + ".");
+		System.out.println("The rectangle area is " + area + ", ok.");
+		
 		
 	}
 	
